@@ -1,0 +1,2 @@
+- javac.exe: Compiles source code into byte code.
+- java.exe: Executes java programs.
